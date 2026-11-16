@@ -101,6 +101,12 @@ See the repository's `LICENSE.md` and `DISCLAIMER.md` files once published.
 - The dataset is not an official utility, grid operator, or regulatory publication.
 - IT Altitudes Inc. does not guarantee accuracy, completeness, or suitability for any particular use.
 
+  ## Dataset Certificate
+
+View our publisher-issued **Certificate of Dataset Curation & Content Review**, covering dataset preparation, quality-review activities, and intended buyer benefits.
+
+[**View Grid Interconnection Certificate**](CERTIFICATES.md)
+
 ## About IT Altitudes Inc.
 
 IT Altitudes Inc. develops curated reference datasets for researchers, analysts, data engineers, and organizations working with structured information.
