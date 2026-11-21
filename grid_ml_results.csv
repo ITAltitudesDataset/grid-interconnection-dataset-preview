@@ -1,0 +1,51 @@
+q_id,q_status,state,type_clean,mw_1,q_year,anomaly_flag,anomaly_score
+Q044a.,withdrawn,AZ,Solar,900.0,2008,True,-0.00706
+Q225,active,AZ,Solar+Battery,200.0,2014,False,0.06933
+Q007 - 061,operational,AZ,Other,24.0,2005,False,0.04022
+Q315,suspended,AZ,Battery,50.0,2019,False,0.11988
+IA-PNM-2025-18,unknown,NM,Wind,250.0,2025,False,0.07211
+Q499,withdrawn,CA,Hydro,1300.0,2023,False,0.01659
+GI-101,active,MO,Gas,460.0,2022,False,0.13546
+33,operational,NV,Geothermal,10.0,2004,False,0.05358
+607,suspended,WY,Solar+Wind+Battery,300.0,2021,False,0.13527
+CS24-15,active,WA,Wind+Battery,300.0,2024,False,0.10821
+BHBE G6,withdrawn,SD,Coal,100.0,2006,False,0.04036
+659,suspended,ID,Solar+Gas+Battery,1650.0,2022,False,0.01271
+121,operational,CT,Oil,6.0,2004,False,0.02651
+144,withdrawn,FL,Solar+Gas,560.0,2016,False,0.08429
+897247,active,NC,Diesel,30.5,2023,False,0.08314
+316,operational,ME,Gas+Other,9.5,2009,False,0.02451
+310,suspended,MT,Other Storage,450.0,2016,False,0.09021
+102,withdrawn,MA,Gas+Oil,97.1999969482422,2003,True,-0.01403
+E0054,active,IN,Gas+Battery,530.0,2025,False,0.07443
+A08,operational,PA,Nuclear,15.0,1997,True,-0.10797
+AB1-056,suspended,DE,Offshore Wind,247.8,2015,False,0.08232
+LGE-GIS-2007-004,withdrawn,KY,Gas+Coal,642.0,2007,False,0.02256
+J2171,active,IL,Solar+Wind,500.0,2022,False,0.13242
+GI-2009-4,unknown,CO,Solar,16.0,2009,False,0.03781
+R1001,active,MN,Solar+Other,49.9,2020,False,0.13095
+R1007,withdrawn,IA,Other+Battery,60.0,2021,False,0.13671
+R1049,active,WI,Other+Coal,303.5,2024,False,0.1064
+AE1-152,withdrawn,VA,Gas+Battery+Diesel,21.5,2018,False,0.07985
+GEN-2020-003,active,KS,Gas+Diesel,58.0,2020,False,0.12553
+1103,operational,NH,Hydro+Battery,15.0,2021,False,0.09142
+418,withdrawn,VT,Oil+Other,37.0,2013,False,0.04867
+26INR0515,active,TX,Hydrogen,230.0,2024,False,0.08908
+G0697,withdrawn,OR,Solar+Battery+Other Storage,1200.0,2021,False,0.05028
+37316,active,WY,Gas+Battery+Other Storage,600.0,2025,False,0.06684
+530,withdrawn,ID,Solar+Wind+Other Storage,870.0,2018,False,0.06749
+1484,withdrawn,ME,Solar+Hydro,3.99000000953674,2023,False,0.00078
+R1011,active,IN,Solar+Other+Battery,250.0,2021,False,0.13672
+R1005,withdrawn,MN,Gas+Oil+Other,49.0,2021,False,0.14041
+R5066,active,WI,Battery+Other Storage,20.2,2025,False,0.01202
+S1036,active,IL,Wind+Other,400.0,2022,False,0.12793
+170,withdrawn,MT,Wind+Gas,62.5,2014,False,0.08081
+Company MN,active,NV,Solar+Geothermal,1.3,2021,True,-0.05381
+799,suspended,UT,Solar+Battery,67.0,2016,False,0.09314
+AI1-053,active,PA,Solar+Diesel,6.6,2022,False,0.04016
+81,active,CA,Geothermal+Battery,9.435,2005,False,0.05404
+159A,operational,MX,Wind,256.0,2006,False,0.03469
+AD2-091,suspended,OH,Battery,50.0,2018,False,0.11379
+106,operational,RI,Other,4.19999980926513,2003,True,-0.03074
+AE1-020,suspended,NJ,Offshore Wind,816.0,2018,False,0.06987
+MPC01300,operational,ND,Coal,455.0,2008,False,0.04109

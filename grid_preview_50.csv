@@ -1,0 +1,51 @@
+q_id,q_status,q_date,prop_date,state,county,region,utility,project_type,type_clean,mw_1,q_year,prop_year
+Q044a.,withdrawn,39597,40909,AZ,Yuma,West,Arizona Public Service,Generation,Solar,900,2008,2012
+Q225,active,41907,44552,AZ,Maricopa,West,Arizona Public Service,Generation,Solar+Battery,200,2014,2021
+Q007 - 061,operational,38497,39539,AZ,Navajo,West,Arizona Public Service,Generation,Other,24,2005,2008
+Q315,suspended,43738,44865,AZ,Coconino,West,Arizona Public Service,Generation,Battery,50,2019,2022
+IA-PNM-2025-18,unknown,45737,46997,NM,Torrance,West,Public Service Company of New Mexico,Generation,Wind,250,2025,2028
+Q499,withdrawn,45007,46722,CA,Riverside,West,Arizona Public Service,Generation,Hydro,1300,2023,2027
+GI-101,active,44763,46418,MO,Clinton,Southeast,"Associated Electric Cooperative, Incorporated",Generation,Gas,460,2022,2027
+33,operational,38180,32338,NV,Churchill,CAISO,SCE,Generation,Geothermal,10,2004,1988
+607,suspended,44375,45809,WY,Sweetwater,West,Idaho Power Company,Generation,Solar+Wind+Battery,300,2021,2025
+CS24-15,active,45412,47467,WA,Lincoln,West,Avista Utilities,Generation,Wind+Battery,300,2024,2029
+BHBE G6,withdrawn,38926,40544,SD,Campbell,West,Black Hills Power,Generation,Coal,100,2006,2011
+659,suspended,44728,46722,ID,Jerome,West,Idaho Power Company,Generation,Solar+Gas+Battery,1650,2022,2027
+121,operational,38160,38439,CT,Fairfield,ISO-NE,N/A,Generation,Oil,6,2004,2005
+144,withdrawn,42496,44317,FL,Sumter,Southeast,Duke Energy Florida,Generation,Solar+Gas,560,2016,2021
+897247,active,45104,46143,NC,Johnston,Southeast,Duke Energy Progress,Generation,Diesel,30.5,2023,2026
+316,operational,40119,40455,ME,Penobscot,ISO-NE,BHE,Generation,Gas+Other,9.5,2009,2010
+310,suspended,42725,44958,MT,Meagher,West,NorthWestern Energy,Generation,Other Storage,450,2016,2023
+102,withdrawn,37656,39569,MA,Essex,ISO-NE,NGRID,Generation,Gas+Oil,97.199996948242202,2003,2008
+E0054,active,45965,47058,IN,Sullivan,MISO,Hallador Power,Generation,Gas+Battery,530,2025,2028
+A08,operational,35582,37438,PA,Columbia,PJM,PPL,Generation,Nuclear,15,1997,2002
+AB1-056,suspended,42247,46752,DE,Sussex,PJM,DPL,Generation,Offshore Wind,247.8,2015,2027
+LGE-GIS-2007-004,withdrawn,39196,40633,KY,Henderson,Southeast,Louisville Gas & Electric and Kentucky Utilities Energy,Generation,Gas+Coal,642,2007,2011
+J2171,active,44645,45413,IL,Perry,MISO,AMEREN ILLINOIS,Generation,Solar+Wind,500,2022,2024
+GI-2009-4,unknown,39888,40543,CO,Alamosa,West,Public Service Company Of Colorado,Generation,Solar,16,2009,2010
+R1001,active,43966,44666,MN,Otter Tail,MISO,OTTER TAIL POWER COMPANY,Generation,Solar+Other,49.9,2020,2022
+R1007,withdrawn,44284,45108,IA,Linn,MISO,Alliant Energy West,Generation,Other+Battery,60,2021,2023
+R1049,active,45650,45809,WI,Sheboygan,MISO,AMERICAN TRANSMISSION COMPANY,Generation,Other+Coal,303.5,2024,2025
+AE1-152,withdrawn,43367,44120,VA,City Of Portsmouth,PJM,Dominion,Generation,Gas+Battery+Diesel,21.5,2018,2020
+GEN-2020-003,active,43922,47483,KS,Cowley,SPP,KPP,Generation,Gas+Diesel,58,2020,2029
+1103,operational,44265,45245,NH,Coos,ISO-NE,,Generation,Hydro+Battery,15,2021,2023
+418,withdrawn,41395,42246,VT,Windsor,ISO-NE,,Generation,Oil+Other,37,2013,2015
+26INR0515,active,45456,46569,TX,Cameron,ERCOT,,Generation,Hydrogen,230,2024,2027
+G0697,withdrawn,44461,48549,OR,Crook,West,,Generation,Solar+Battery+Other Storage,1200,2021,2032
+37316,active,45867,46752,WY,Laramie,West,Black Hills Cheyenne Light Fuel and Power Transmission,Generation,Gas+Battery+Other Storage,600,2025,2027
+530,withdrawn,43213,44177,ID,Elmore,West,Idaho Power Company,Generation,Solar+Wind+Other Storage,870,2018,2020
+1484,withdrawn,45289,45657,ME,Cumberland,ISO-NE,CMP,Generation,Solar+Hydro,3.9900000095367401,2023,2024
+R1011,active,44473,45306,IN,Pike,MISO,INDIANAPOLIS POWER & LIGHT COMPANY,Generation,Solar+Other+Battery,250,2021,2024
+R1005,withdrawn,44215,44634,MN,Sherburne,MISO,GREAT RIVER ENERGY,Generation,Gas+Oil+Other,49,2021,2022
+R5066,active,45757,46369,WI,Columbia,MISO,AMERICAN TRANSMISSION COMPANY,Generation,Battery+Other Storage,20.2,2025,2026
+S1036,active,44813,45808,IL,Mclean,MISO,GREAT RIVER ENERGY,Generation,Wind+Other,400,2022,2025
+170,withdrawn,41829,42476,MT,Big Horn,West,NorthWestern Energy,Generation,Wind+Gas,62.5,2014,2016
+Company MN,active,44551,44713,NV,Lyon,West,NV Energy,Generation,Solar+Geothermal,1.3,2021,2022
+799,suspended,42633,45264,UT,Box Elder,West,PacifiCorp,Generation,Solar+Battery,67,2016,2023
+AI1-053,active,44722,44896,PA,Mercer,PJM,ATSI,Generation,Solar+Diesel,6.6,2022,2022
+81,active,38608,46721,CA,Lake,CAISO,PGAE,Generation,Geothermal+Battery,9.4350000000000005,2005,2027
+159A,operational,39073,39965,MX,Baja California,CAISO,SDGE,Generation,Wind,256,2006,2009
+AD2-091,suspended,43179,46022,OH,Hardin,PJM,AEP,Generation,Battery,50,2018,2025
+106,operational,37698,38035,RI,Providence,ISO-NE,NGRID,Generation,Other,4.1999998092651296,2003,2004
+AE1-020,suspended,43243,46081,NJ,Ocean,PJM,JCPL,Generation,Offshore Wind,816,2018,2026
+MPC01300,operational,39576,41639,ND,Oliver,MISO,Minnkota Power Cooperative,Generation,Coal,455,2008,2013
