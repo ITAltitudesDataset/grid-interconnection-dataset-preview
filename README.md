@@ -179,6 +179,20 @@ The following use cases illustrate how organizations can use historical intercon
 
 **Potential Buyer Value:** Provide a structured reference dataset for developing and testing analytical workflows across multiple file formats.
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![Grid Interconnection Preview](grid_preview_screenshot.png)
+
+### Project Status Distribution
+
+![Grid Interconnection Project Status](grid_status_chart.png)
+
+Explore the free 50-row preview to understand the dataset structure, project status, technology types, and regional coverage.
+
+**[Get the Complete Grid Interconnection Dataset](https://italtitudes.gumroad.com/l/lavlcx)**
+
 ### Why Consider the Complete Buyer Kit?
 
 The free 50-row preview helps users evaluate the dataset's structure and suitability for their intended workflows.
