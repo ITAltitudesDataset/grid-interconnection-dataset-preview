@@ -209,6 +209,18 @@ The complete buyer kit provides:
 
 *Use cases are illustrative. Available analyses depend on actual dataset fields, coverage, completeness, and source limitations. The dataset is not a substitute for live grid operator records, engineering studies, or professional investment advice.*
 
+## Machine Learning Demonstration
+
+Explore our reproducible Isolation Forest ML demonstration using the Grid Interconnection 50-row preview.
+
+The model analyzes project capacity and queue year, identifying 5 statistically unusual observations within the sample.
+
+**[View Grid ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![Grid ML Analysis](ml_demo/grid_ml_chart.png)
+
+*Educational demonstration only. Anomaly flags do not establish data errors, project risk, or future project outcomes.*
+
 ## Potential Buyer Benefits
 
 - Structured reference information for research workflows
